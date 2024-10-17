@@ -1,0 +1,5 @@
+text 1: 中国烟草提示您
+text 2: CHINA TOBACCC
+text 3: 现在是Smoking时间
+text 4: 请放下手中所有的事
+text 5: 出来陪一根
