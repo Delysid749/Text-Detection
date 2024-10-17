@@ -1,6 +1,6 @@
 import cv2
 import threading
-from preprocess import process_image_for_EAST, preprocess_for_paddleocr, process_image
+from preprocess import process_image
 from text_detect_Paddle import detect_identify_text
 from text_detect_tesseract_EAST import detect_text_and_recognize
 
